@@ -56,13 +56,3 @@ To be notified of new releases subscribe to this [Atom feed](https://github.com/
 * Please do not create issues in the Issue Tracker
 * See also this tutorial (externally maintained): [Create your first Desktop Application with PHP and PHP Desktop](http://phpocean.com/tutorials/design-and-illustration/create-your-first-desktop-application-with-php-and-php-desktop/4)
 
-
-## Donate
-
-If you would like to support PHP Desktop general development efforts by making a donation please click the Donate button below:
-
-[![Donate](https://raw.githubusercontent.com/cztomczak/phpdesktop/master/var/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JQSTPDRRM8AQ8)
-
-Please note that at this time PHP Desktop is unable to accept donations that sponsor the development of specific features. 
-However you can make a donation with a comment that you would like to see some feature implemented and this will give it 
-a higher priority, but apart from that there are no other guarantees.
